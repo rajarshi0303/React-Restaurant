@@ -2,7 +2,7 @@
 Welcome to React-Restaurant, a fully responsive restaurant website built with React. This project aims to provide a comprehensive platform for restaurants to showcase their menu, services, and other important information to potential customers.
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/5f55c559-8c53-4b48-a8db-c64b299b87ed" width="400" height="450" hspace="5" />
+  <img src="https://github.com/user-attachments/assets/5f55c559-8c53-4b48-a8db-c64b299b87ed" width="360" height="450" hspace="5" />
   <img src="https://github.com/user-attachments/assets/520e590e-3dab-42c3-b783-feaafa750eff" width="390" height="450" />
 <p>
   <img src="https://github.com/user-attachments/assets/9faf1117-d07e-4521-a04a-74d7d83a5138" width="360" height="450" hspace="5" />
