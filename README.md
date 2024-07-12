@@ -4,7 +4,7 @@ Welcome to React-Restaurant, a fully responsive restaurant website built with Re
 <p float="left">
   <img src="https://github.com/user-attachments/assets/5f55c559-8c53-4b48-a8db-c64b299b87ed" width="400" height="450" hspace="5" />
   <img src="https://github.com/user-attachments/assets/520e590e-3dab-42c3-b783-feaafa750eff" width="390" height="450" />
-<p></p>
+<p>
   <img src="https://github.com/user-attachments/assets/9faf1117-d07e-4521-a04a-74d7d83a5138" height="450" hspace="5" />
   <img src="https://github.com/user-attachments/assets/20247900-8683-4dc6-acaf-57659c631212" width="390" height="450" />
 </p>
